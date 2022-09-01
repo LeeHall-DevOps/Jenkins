@@ -10,7 +10,7 @@
 
 [EC2 to Jenkins](./EC2_to_Jenkins/Readme.MD)
 
-[CICD_with_Jenkins](./CICD_with_Jenkins/README.md)
+[CICD with Jenkins](./CICD_with_Jenkins/README.md)
 
 ## What is Jenkins?
 ---
